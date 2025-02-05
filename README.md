@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexbaousis" alt="alexbaousis" /></a> </p>
 
-- 🔭 I’m currently working on **Born to Be Free**
+- 🔭 I’m currently working on **Suzuki Practice Buddy**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
