@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
-- 💬 Ask me about **Mathematics and Computer Architecture**
+- 💬 Ask me about **Mathematics and Cloud Computing**
 
 - 📫 How to reach me **abbaous@gmail.com or alexandros.baousis.2023@bristol.ac.uk**
 
