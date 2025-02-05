@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abbaous@gmail.com or alexandros.baousis.2023@bristol.ac.uk**
 
-- ⚡ Fun fact **I like Basketball**
+- ⚡ Fun fact **I like Raspberry Pis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
