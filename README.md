@@ -3,15 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexbaousis" alt="alexbaousis" /></a> </p>
 
-- 🔭 I’m currently working on **Suzuki Practice Buddy**
-
-- 👯 I’m looking to collaborate on **Machine Learning projects**
-
-- 💬 Ask me about **Mathematics and Cloud Computing**
+- 🔭 I’m currently working on **Suzuki Practice Buddy v2**
 
 - 📫 How to reach me **abbaous@gmail.com or alexandros.baousis.2023@bristol.ac.uk**
-
-- ⚡ Fun fact **I like Raspberry Pis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
