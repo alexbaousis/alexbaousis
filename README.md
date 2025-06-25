@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexbaousis" alt="alexbaousis" /></a> </p>
 
-- 🔭 I’m currently working on **Suzuki Practice Buddy v2**
+- 🔭 I’m currently working on **BabelStream**
 
 - 📫 How to reach me **abbaous@gmail.com or alexandros.baousis.2023@bristol.ac.uk**
 
