@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandros</h1>
-<h3 align="center">2nd Year Computer Science student at the University of Bristol</h3>
-
-- 🔭 I’m currently working on **BabelStream**
+<h3 align="center">3rd Year Computer Science student at the University of Bristol</h3>
 
 - 📫 How to reach me: **abbaous@gmail.com** or **alexandros.baousis.2023@bristol.ac.uk**
 
